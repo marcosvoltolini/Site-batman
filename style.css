@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    background-image: url(assets/batman\ 1.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+img {
+    height: 200px;
+    border: 5px solid white;
+    border-radius: 50px;
+}
+footer p {
+    color: gold;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gold;
+    font-size:xx-large;
+    padding: 50px;
+}
